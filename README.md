@@ -23,7 +23,7 @@ A revolutionary crypto coupon system built on the Solana blockchain, designed fo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/whaler-coupon/whaler-coupon.github.io.git
+git clone https://github.com/Vicissitude47/whaler-coupon.github.io.git
 ```
 
 2. Navigate to the project directory:
@@ -59,6 +59,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Whaler Team - [Contact Form](https://whaler-coupon.github.io/#contact)
+Whaler Team - [Contact Form](https://Vicissitude47.github.io/whaler-coupon.github.io/#contact)
 
-Project Link: [https://github.com/whaler-coupon/whaler-coupon.github.io](https://github.com/whaler-coupon/whaler-coupon.github.io) 
+Project Link: [https://github.com/Vicissitude47/whaler-coupon.github.io](https://github.com/Vicissitude47/whaler-coupon.github.io) 
