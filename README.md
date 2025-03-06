@@ -43,7 +43,7 @@ To make changes to the website:
 
 ## Deployment
 
-The website is automatically deployed through GitHub Pages when changes are pushed to the main branch.
+The website is automatically deployed to [whaler.io](https://whaler.io) when changes are pushed to the main branch.
 
 ## Contributing
 
@@ -59,6 +59,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Whaler Team - [Contact Form](https://Vicissitude47.github.io/whaler-coupon.github.io/#contact)
+Whaler Team - [Contact Form](https://whaler.io/#contact)
 
 Project Link: [https://github.com/Vicissitude47/whaler-coupon.github.io](https://github.com/Vicissitude47/whaler-coupon.github.io) 
